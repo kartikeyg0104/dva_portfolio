@@ -49,7 +49,7 @@ export default function Education() {
               <div className="flex flex-wrap gap-4 text-text-muted text-sm">
                 <div className="flex items-center gap-1.5">
                   <FiCalendar className="text-accent-blue" />
-                  <span>2024 — 2026</span>
+                  <span>2024 — 2028</span>
                 </div>
                 <div className="flex items-center gap-1.5">
                   <FiMapPin className="text-accent-purple" />
